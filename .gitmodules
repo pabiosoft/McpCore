@@ -1,9 +1,9 @@
 [submodule "core/SimpleMCP"]
 	path = core/SimpleMCP
-	url = https://github.com/TON_NOM/SimpleMCP.git
+	url = https://github.com/pabiosoft/SimpleMcp
 [submodule "core/RemoteMCP"]
 	path = core/RemoteMCP
-	url = https://github.com/TON_NOM/RemoteMCP.git
+	url = https://github.com/pabiosoft/RemoteMcp
 [submodule "core/McpClient"]
 	path = core/McpClient
-	url = https://github.com/TON_NOM/McpClient.git
+	url = https://github.com/pabiosoft/McpClient
